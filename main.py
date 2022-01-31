@@ -1,4 +1,4 @@
-file = open('example1.txt', 'r')
+file = open('example2.txt', 'r')
 
 
 
@@ -23,7 +23,7 @@ for j in co_ordiantes:
             origin[1]-=1
         elif i == 'W':
             origin[0]-=1
-    print(origin)
+    print(tuple(origin))
 
 
 
