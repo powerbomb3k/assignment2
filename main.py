@@ -1,7 +1,5 @@
 file = open('example2.txt', 'r')
 
-
-
 #created a list for coordinates
 co_ordiantes = []
 #a for loop for inputing the co_ordinates into a list
@@ -23,7 +21,7 @@ for j in co_ordiantes:
             origin[1]-=1
         elif i == 'W':
             origin[0]-=1
-    print(tuple(origin))
+    print(origin)
 
 
 
