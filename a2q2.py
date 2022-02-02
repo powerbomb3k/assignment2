@@ -1,4 +1,11 @@
-file = open('example2.txt', 'r')
+#name: Suchetanbir singh bhangu
+#NSID: sub412
+#student Number: 11299684
+#course Number: cmpt 145
+#lecture section: 02
+
+
+file = open('example1.txt', 'r')
 
 #created a list for coordinates
 co_ordiantes = []

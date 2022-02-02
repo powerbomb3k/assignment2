@@ -1,0 +1,42 @@
+Name: Suchetanbir Singh Bhangu
+NSID: sub412
+Student number: 11299684
+Course number: cmpt145
+Lecture section: 02
+
+
+Requirements:
+	1. Day ->  Friday
+	2. Time -> 4pm
+	3. Location -> at home
+	4. Duration -> 10 mins
+	5. Actual time -> 9 mins(recording using a timer)
+
+
+Design:
+	1. Day -> Friday
+	2. Time -> 5pm
+	3. Location -> at home
+	4. Duration -> 30mins
+	5. Actual time -> 25 mins
+
+Implementation: 
+	1. Day -> Monday
+	2. Time -> 5pm
+	3. Location -> at home
+	4. Duration -> 2 hours
+	5. Actual time -> 45 mins
+
+Testing/Debugging: 
+	1. Day -> Monday
+	2. Time -> 7:30 pm
+	3. Location -> at home
+	4. Duration -> 30 mins
+	5. Actual time -> 20 mins
+
+Tidying up:
+	1. Day -> Tuesday
+	2. Time -> 3pm
+	3. Location -> at home
+	4. Duration -> 20 mins
+	5. Actual time -> 10 mins

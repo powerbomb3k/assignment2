@@ -1,0 +1,60 @@
+Name: Suchetanbir Singh Bhangu
+NSID: sub412
+Student number: 11299684
+Course number: Cmpt 145
+Lecture section: 02
+
+
+
+
+
+
+
+
+1) -> 
+	the file must be opened first
+
+2) ->
+	a variable to store a list 
+
+3) ->
+	a for loop to get the data from the file and append to a list
+	These will be the co-ordinates
+
+4) ->
+	a for loop to go through the list 
+
+5) ->
+	a variable to store the initial base value, (0,0) in terms of a graph
+	can be a list of two elements
+
+6) ->
+	another for loop to iterate through the value to each index
+
+7) -> 
+	using if / else statements to compare the values and and getting the output accordingly
+
+8) ->
+	a print statement to print the output
+
+
+Pseudo-code::
+	file open
+	variable = []
+	for I in file
+		variable.append(i.strip())
+
+	for I in variable:
+		another variable
+		for j in I:
+			code consisting of if/else statements
+
+		print statement
+
+
+
+The test cases used were the same provided in the assignment 
+No other test case was used 
+
+
+

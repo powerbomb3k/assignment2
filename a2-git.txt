@@ -1,0 +1,52 @@
+name: suchetanbir Singh Bhangu
+NSID: sub412
+Student number: 11299684
+Course number: cmpt 145
+Lecture section : 02
+
+
+
+commit d43412324141203eee88d96f493eac6f238e7dc5
+Author: Suchetan Bir <suchetanbir@Suchetans-Air.hitronhub.home>
+Date:   Mon Jan 31 15:24:07 2022 -0600
+
+    initial commit for assignment 2
+    
+     * added all the files
+
+
+commit 7987fa3c8517d0542a3f7b241c026046af4518fd
+Author: Suchetan Bir <suchetanbir@Suchetans-Air.hitronhub.home>
+Date:   Mon Jan 31 15:47:58 2022 -0600
+
+    completed the question 2
+        * first created a for loop to get the values from the file to a list
+        * then compared the list with individual values to get the required
+          co-ordinates
+        * printed those co-ordinates
+
+commit 3fecd0665ebecfd86e87907603aed7d7a987441d
+Author: Suchetan Bir <suchetanbir@Suchetans-Air.hitronhub.home>
+Date:   Mon Jan 31 15:53:15 2022 -0600
+
+    Getting the output in co-ordinate form
+        * first the output was in list form
+        * converted to give the output in tuple form
+        * now it looks like co-ordinates
+
+
+commit f8673e1e1a677422bddd262fdb558a7a8a511c7a
+Author: Suchetan Bir <suchetanbir@Suchetans-Air.hitronhub.home>
+Date:   Mon Jan 31 16:02:41 2022 -0600
+
+    Added comment to make program more understandable
+        * added some comments regarding the use of for loop and variables
+        * to make the program better
+
+
+commit b488675830606e3a7d5c2a9ae7363aba38c5a2bc (HEAD -> main, origin/main)
+Author: Suchetan Bir <suchetanbir@Suchetans-Air.hitronhub.home>
+Date:   Mon Jan 31 16:09:43 2022 -0600
+
+    renamed the file to a2q2
+        * as per required by the assignment
